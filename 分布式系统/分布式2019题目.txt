@@ -1,0 +1,9 @@
+1。1。spide4步  8分 2。thin FAT client定义  7分
+2。描述ring election  10分
+3。NTP计算题   10分
+4。NAT工作描述   10分
+5。1。DFS和stand-aloneFS的区别 2。UNIX FILE internal structure   15分
+6。解析文件名过程   10分 磁盘访问的时候需要的数字是什么   5分
+7。1。怎么调整时钟的时间  7分 2。描述Berkeley 算法  8分
+8。2phase lock，timestamp oeder，optimistic order是三种control方式(10分) 按什么顺序来serializal(5分) 各举一个优缺点(5分) 
+
